@@ -1,0 +1,6 @@
+2016-12-14 12:06:42,758 [FATAL] (LogAOP.java:before:24) Solde actuel : 0.0
+2016-12-14 12:06:42,760 [FATAL] (LogAOP.java:before:31) Virement de 1000.0
+2016-12-14 12:06:42,760 [FATAL] (LogAOP.java:invoke:46) Solde actualisé après le virement de 1000.0 : 1000.0
+2016-12-14 12:06:42,760 [FATAL] (LogAOP.java:before:24) Solde actuel : 1000.0
+2016-12-14 12:06:42,760 [FATAL] (LogAOP.java:before:27) Retrait de 500.0
+2016-12-14 12:06:42,760 [FATAL] (LogAOP.java:invoke:50) Solde actualisé après le retrait de 500.0 : 500.0
